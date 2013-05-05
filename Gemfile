@@ -45,5 +45,8 @@ gem 'pg'
 # Allows better management of ENV variables
 gem 'figaro'
 
+# Better serving
+gem 'thin'
+
 # Twilio support
 gem 'twilio-ruby'
