@@ -1,0 +1,8 @@
+# Add application configuration variables here, as shown below.
+# Run rake figaro:heroku to push these keys to Heroku
+
+# Purpose:    This SID and Token are necessary for using Twilio
+# Mandatory:  YES
+
+TWILIO_ACCOUNT_SID: 'AC0186fd6ee95c48a5691b3eaba0e5f0e5'
+TWILIO_AUTH_TOKEN: 'db94495de428591cf07fbc3f09602580'
